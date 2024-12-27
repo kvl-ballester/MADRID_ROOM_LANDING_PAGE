@@ -1,3 +1,18 @@
 {
-  "welcome": "Bienvenido a la página principal"
+  "web_name":"Habitación Oso y Madroño",
+  "description": {
+    "tittle": "Habitación en Madrid, España",
+    "subtittle": "2 camas individuales - baño privado en el alojamiento",
+    "warning": "Debido a la nueva ley de hospedajes que entra en vigor el 1 de Enero de 2025, es imposible anunciar el alquiler de una habitación para estancias inferiores a 30 días, por ello facilitamos esta página para que todo aquel que este interesado pueda contactar con los anfitriones. Para estancias superiores a 30 días, recomendamos hacer uso del <a href='https://airbnb.es/h/habitacion-doble-privada-en-madrid-salamanca'>anuncio en Airbnb</a>.",
+    "room_tittle": "Habitación en: apartamento",
+    "room_subtittle": "Una habitación solo para ti con acceso a zonas comunes.",
+    "shared_tittle": "Zonas comunes compartidas",
+    "shared_subtittle": "Compartirás algunas zonas del alojamiento.",
+    "bathroom_tittle":"Baño privado en el alojamiento",
+    "bathroom_subtittle":"Este alojamiento tiene un baño solo para ti."
+  },
+  "review": {
+    "rating": "Calificación",
+    "date": "Fecha"
+  }
 }

@@ -1,3 +1,18 @@
 {
-  "welcome": "Welcome to the landing page."
+  "web_name": "Oso and Madroño Room",
+  "description": {
+    "tittle": "Room in Madrid, Spain",
+    "subtittle": "2 single beds - private bathroom in the accommodation",
+    "warning": "Due to the new lodging law that comes into effect on January 1, 2025, it is impossible to advertise the rental of a room for stays of less than 30 days. Therefore, we provide this page so that anyone interested can contact the hosts. For stays longer than 30 days, we recommend using the <a href='https://www.airbnb.com'>Airbnb listing</a>.",
+    "room_tittle": "Room in: apartment",
+    "room_subtittle": "A room just for you with access to common areas.",
+    "shared_tittle": "Shared common areas",
+    "shared_subtittle": "You will share some areas of the accommodation.",
+    "bathroom_tittle": "Private bathroom in the accommodation",
+    "bathroom_subtittle": "This accommodation has a bathroom just for you."
+  },
+  "review": {
+    "rating": "Rating",
+    "date": "Date"
+  }
 }
