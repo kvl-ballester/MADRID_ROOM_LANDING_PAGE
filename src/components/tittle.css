@@ -1,0 +1,20 @@
+.tittle h3 {
+    font-weight: 400;
+}
+
+.tittle .room_info h3{
+    margin: 0;
+}
+
+.tittle .room_info > div {
+    margin-bottom: 12px;
+}
+
+.tittle .warning {
+    margin: 24px 0;
+}
+
+.tittle .warning-logo {
+    display: flex;
+    align-items: center;
+}
