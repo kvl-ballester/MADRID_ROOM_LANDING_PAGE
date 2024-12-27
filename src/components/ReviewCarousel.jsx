@@ -49,7 +49,15 @@ export default function ReviewCarousel() {
                 {selectedReviews.map((review, index) => (
                     <div key={index} className="review">
                         <h3>{review.name}</h3>
-                        <p>{t('review.rating')}: {"⭐".repeat(review.rating)}</p>
+                        <p>
+                            {t('review.rating')}: 
+                            {Array.from({ length: review.rating }).map((_, i) => (
+                                <span key={i} className="star">⭐</span>
+                            ))}
+                            {Array.from({ length: 5 - review.rating }).map((_, i) => (
+                                <span key={i} className="star gray">⭐</span>
+                            ))}
+                        </p>
                         <p>{t('review.date')}: {review.date}</p>
                         <p>{review.comment}</p>
                     </div>
