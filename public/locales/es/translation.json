@@ -14,5 +14,16 @@
   "review": {
     "rating": "Calificación",
     "date": "Fecha"
+  },
+  "contact": {
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "name_required": "El nombre es obligatorio",
+    "email_invalid": "Correo electrónico inválido",
+    "email_required": "El correo electrónico es obligatorio",
+    "message_min": "El mensaje debe tener al menos 150 caracteres",
+    "message_required": "El mensaje es obligatorio",
+    "submit": "Enviar"
   }
 }

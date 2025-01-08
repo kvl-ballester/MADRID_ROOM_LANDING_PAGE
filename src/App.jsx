@@ -4,6 +4,7 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import Tittle from './components/Tittle'
 import ReviewCarousel from './components/ReviewCarousel'
+import Contact from './components/Contact'
 
 function App() {
   const {t, i18n} = useTranslation()
@@ -14,6 +15,7 @@ function App() {
       <div className="content">
         <Tittle />
         <ReviewCarousel />
+        <Contact />
       </div>
       <Footer />
     </div>

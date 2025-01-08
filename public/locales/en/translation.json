@@ -14,5 +14,16 @@
   "review": {
     "rating": "Rating",
     "date": "Date"
+  },
+  "contact": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "name_required": "Name is required",
+    "email_invalid": "Invalid email",
+    "email_required": "Email is required",
+    "message_min": "Message must be at least 50 characters",
+    "message_required": "Message is required",
+    "submit": "Submit"
   }
 }
